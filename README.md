@@ -36,21 +36,11 @@ I'm a Data Scientist and AI Developer and very passionate about Computer Vision
  <div>
   <h2 align="center">  Reach me on </h2>
     <p align="center">
-       <a href="https://linkedin.com/in/abubakrmamajonov" target="_blank">
+       <a href="https://www.linkedin.com/in/laziz-rahmat" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
        </a>
-       <a href="mailto:mamajonov1710@gmail.com" target="_blank">
+       <a href="mailto:lazizrakhmat@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-       </a>
-       <a href="https://www.facebook.com/abubakr.mamajonov.75" target="_blank">
-         <img src="https://img.shields.io/badge/Facebook-0077B5?&style=for-the-badge&logo=facebook&logoColor=white"/>
-       </a>
-       </a>
-       <a href="https://www.instagram.com/abubakr_mamajonov" target="_blank">
-         <img src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>
-       </a>
-       <a href="https://dev.to/abubakr1710" target="_blank">
-         <img src="https://img.shields.io/badge/Dev.to-%230A0A0A.svg?&style=for-the-badge&logo=Dev.to&logoColor=white"/>
        </a>
     </p>
  </div>
