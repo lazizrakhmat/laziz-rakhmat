@@ -5,9 +5,9 @@ href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github
 
 Hey, I'm Laziz 👋
 
-I'm a Data Scientist and AI Developer and very passionate about Computer Vision
+I'm a Data Scientist Developer and very passionate about Computer Vision
 
-- 🎓 Education: I am studying Bachelor of Computer Engineering at Auezov University in Shymkent. 
+- 🎓 Education: I am studying Bachelor of Logistics at Auezov University in Shymkent. 
 
 
 - 😅 Fun fact: I like to travel around the world. I visited 5 countries and 6 cities.
