@@ -28,7 +28,6 @@ I'm a Data Scientist Developer and very passionate about Computer Vision
    <img src="https://img.shields.io/badge/-Sklearn-0a2463?logo=scikit-learn&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Pytorch-0a2463?logo=pytorch&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-OpenCV-0a2463?logo=OpenCV&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-spaCy-0a2463?logo=spacy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
