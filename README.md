@@ -10,7 +10,7 @@ I'm a Data Scientist Developer and very passionate about Computer Vision
 - 🎓 Education: I am studying Bachelor of Logistics at Auezov University in Shymkent. 
 
 
-- 😅 Fun fact: I like to travel around the world. I visited 5 countries and 6 cities.
+- 😅 Fun fact: I like to travel around the world.
 
 - 🙂 Additional: Do not bother me with NLP😅
 
