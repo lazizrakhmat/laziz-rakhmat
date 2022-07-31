@@ -23,7 +23,6 @@ I'm a Data Scientist Developer and very passionate about Computer Vision
    <img src="https://img.shields.io/badge/-Pandas-0a2463?logo=pandas&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Matplotlib-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Seaborn-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Streamlit-0a2463?logo=streamlit&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Selenium-0a2463?logo=selenium&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Beautifulsoup-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Sklearn-0a2463?logo=scikit-learn&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
