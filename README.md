@@ -7,7 +7,7 @@ Hey, I'm Laziz 👋
 
 I'm a Data Scientist Developer and very passionate about Computer Vision
 
-- 🎓 Education: I am studying Bachelor of Logistics at Auezov University in Kazakhstan. 
+- 🎓 Education: I am studying Bachelor Information Technology at Auezov University in Kazakhstan. 
 
 - 😅 Fun fact: I like to travel around the world.
 
