@@ -11,7 +11,6 @@ I'm a Data Scientist Developer and very passionate about Computer Vision
 
 - 😅 Fun fact: I like to travel around the world.
 
-- 🙂 Additional: Do not bother me with NLP😅
 
 <hr>
 
