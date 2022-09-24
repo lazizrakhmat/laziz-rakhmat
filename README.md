@@ -3,7 +3,7 @@
 <img align="left" alt="GIF" src="https://github.com/laziz-rakhmat/laziz-rakhmat/blob/main/code.gif" width="300" height="200"
 href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="laziz-rakhmat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/laziz-rakhmat?cardType=github&theme=github-dark" />
 
-Hey, I'm Laziz 👋
+Hey, I'm Lazizbek 👋
 
 I'm a Data Scientist Developer and very passionate about Computer Vision
 
