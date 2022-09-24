@@ -5,7 +5,7 @@ href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github
 
 Hey, I'm Lazizbek 👋
 
-I'm a Data Scientist Developer and very passionate about Computer Vision
+I'm a Data Scientist Developer and very passionate about Machine Learning
 
 - 🎓 Education: I am studying Bachelor Information Technology at Auezov University in Kazakhstan. 
 
