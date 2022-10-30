@@ -3,15 +3,13 @@
 <img align="left" alt="GIF" src="https://github.com/laziz-rakhmat/laziz-rakhmat/blob/main/code.gif" width="300" height="200"
 href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=github-dark">    <img  alt="laziz-rakhmat's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/laziz-rakhmat?cardType=github&theme=github-dark" />
 
-Hey, I'm Lazizbek 👋
+Hi there👋
 
 I'm a Data Scientist Developer and very passionate about Machine Learning
 
 - 🎓 Education: I am studying Bachelor Information Technology at Auezov University in Kazakhstan. 
-
-- 😅 Fun fact: I like to travel around the world.
-
-
+ 
+ 
 <hr>
 
 <h2 align="center">  Languages and Tools </h2>
