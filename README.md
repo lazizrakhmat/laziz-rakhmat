@@ -5,7 +5,7 @@ Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949
 Data Scientist
 --------------
 
-I am Data scientist who loves Ai !
+I am Data scientist who loves AI !
 
 * 🌍  I'm based in Tashkent city
 * ✉️  You can contact me at [lazizrakhmat@gmail.com](mailto:lazizrakhmat@gmail.com)
