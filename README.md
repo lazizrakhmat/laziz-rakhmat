@@ -36,8 +36,6 @@ I am Data scientist who loves Ai !
    <img src="https://img.shields.io/badge/-Beautifulsoup-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Sklearn-0a2463?logo=scikit-learn&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Pytorch-0a2463?logo=pytorch&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-OpenCV-0a2463?logo=OpenCV&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-PostgreSQL-0a2463?logo=postgresql&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
 </p>
 
 ### Socials
