@@ -8,7 +8,7 @@ Data Scientist
 I am Data scientist who loves AI !
 
 * 🌍  I'm based in Tashkent city
-* ✉️  You can contact me at [lazizrakhmat@gmail.com](mailto:lazizrakhmat@gmail.com)
+* ✉️  You can contact me at [dsrakhmat@gmail.com](mailto:lazizrakhmat@gmail.com)
 * 🧠  I'm learning Machine Learning
 * 🤝  I'm open to collaborating on Projects
 * ⚡  I am Doctor Strange, Tell everyone
