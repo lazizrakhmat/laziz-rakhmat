@@ -1,4 +1,34 @@
 
+
+Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lazizbek Rakhmatov
+==========================================================================================================================================
+
+Data Scientist
+--------------
+
+I am Data scientist who loves AI !
+
+* 🌍  I'm based in Tashkent city
+* ✉️  You can contact me at [dsrakhmat@gmail.com](mailto:lazizrakhmat@gmail.com)
+* 🧠  I'm learning Machine Learning
+* 🤝  I'm open to collaborating on Projects
+* ⚡  I am Doctor Strange, Tell everyone
+
+### Skills
+
+
+<p align="left">
+   
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+
+</p>
+
+
+
 <h1 align="center">  Languages and Tools </h2>
 <p align="center">
    <img src="https://img.shields.io/badge/-Python-02050f?logo=python&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
@@ -22,45 +52,6 @@
 </p>
 
 
-
-Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lazizbek Rakhmatov
-==========================================================================================================================================
-
-Data Scientist
---------------
-
-I am Data scientist who loves AI !
-
-* 🌍  I'm based in Tashkent city
-* ✉️  You can contact me at [dsrakhmat@gmail.com](mailto:lazizrakhmat@gmail.com)
-* 🧠  I'm learning Machine Learning
-* 🤝  I'm open to collaborating on Projects
-* ⚡  I am Doctor Strange, Tell everyone
-
-### Skills
-
-
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
-</p>
-
-
-<h1 align="center">  Languages and Tools </h2>
-<p align="center">
-   <img src="https://img.shields.io/badge/-Numpy-0a2463?logo=numpy&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Pandas-0a2463?logo=pandas&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Matplotlib-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Seaborn-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Selenium-0a2463?logo=selenium&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Beautifulsoup-0a2463?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Sklearn-0a2463?logo=scikit-learn&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Pytorch-0a2463?logo=pytorch&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-</p>
 
 ### Socials
 
