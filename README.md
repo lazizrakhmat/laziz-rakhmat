@@ -67,7 +67,7 @@ I am Data scientist who loves AI !
 
 <a href="http://www.github.com/lazizrakhmat"><img src="https://github-readme-stats.vercel.app/api?username=lazizrakhmat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="lazizrakhmat's GitHub stats" /></a>
 
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=lazizrakhmat&bg_color=0b0a0a&color=bda3bc&line=5d653e&point=af9c55&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="Graph" /></a>
+<a href="[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=lazizrakhmat&bg_color=0b0a0a&color=bda3bc&line=5d653e&point=af9c55&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)" alt="Graph" /></a>
 
 <a href="https://github.com/lazizrakhmat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lazizrakhmat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
