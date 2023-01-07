@@ -51,8 +51,6 @@ I am Data scientist who loves AI !
    <img src="https://img.shields.io/badge/-CSS-02050f?logo=css3&logoColor=2f6ad7&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-Bootstrap-02050f?logo=bootstrap&logoColor=563d7c&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/-PostgreSQL-02050f?logo=postgresql&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Flask-02050f?logo=flask&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
-   <img src="https://img.shields.io/badge/-Docker-02050f?logo=docker&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
 </p>
 
 
