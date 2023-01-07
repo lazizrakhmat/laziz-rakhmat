@@ -1,4 +1,28 @@
- 
+
+<h1 align="center">  Languages and Tools </h2>
+<p align="center">
+   <img src="https://img.shields.io/badge/-Python-02050f?logo=python&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Numpy-02050f?logo=numpy&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Pandas-02050f?logo=pandas&logoColor=2f6ad7&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Matplotlib-02050f?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Seaborn-02050f?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Streamlit-02050f?logo=streamlit&logoColor=d0312d&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Selenium-02050f?logo=selenium&logoColor=3cb043&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Beautifulsoup-02050f?logo=matplotlib&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Sklearn-02050f?logo=scikit-learn&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Pytorch-02050f?logo=pytorch&logoColor=d0312d&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-OpenCV-02050f?logo=OpenCV&logoColor=3cb043&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-SpaCy-02050f?logo=spacy&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-HTML-02050f?logo=html5&logoColor=d0312de&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-CSS-02050f?logo=css3&logoColor=2f6ad7&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Bootstrap-02050f?logo=bootstrap&logoColor=563d7c&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-PostgreSQL-02050f?logo=postgresql&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Flask-02050f?logo=flask&logoColor=white&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+   <img src="https://img.shields.io/badge/-Docker-02050f?logo=docker&logoColor=3aaded&style=for-the-badge" />&nbsp;&nbsp;&nbsp;
+</p>
+
+
+
 Hi there![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Lazizbek Rakhmatov
 ==========================================================================================================================================
 
