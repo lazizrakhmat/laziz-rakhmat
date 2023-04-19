@@ -18,9 +18,6 @@ I am Data scientist who loves AI !
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnutfilloyev&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000)
 
-<div align="center">
-   <img align="center" alt="GIF" src="https://github.com/Abubakr1710/Abubakr1710/blob/main/intro.gif?raw=true" >
-</div>
 <hr>
 ### Skills
  
