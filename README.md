@@ -11,10 +11,10 @@ I am Data scientist who loves AI !
 * 🤝 I'm open to collaborating on Projects
 * 👨🏻‍⚕️ I'm Doctor Strange, Tell everyone
 * 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-Linkedin-white?style=flat-square&logo=Linkedin&logoColor=blue&link=https://github.com/uzds)](https://www.linkedin.com/in/laziz-rakhmat/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/bnutfilloyev)](https://t.me/yoshlik_media)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsrakhmat@gmail.com)](mailto:yoshlikmedia@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/dsgoogle)](https://t.me/dsgoogle)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dsrakhmat@gmail.com)](mailto:dsrakhmat@gmail.com)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=bnutfilloyev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lazizrakhmat&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bnutfilloyev&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=000000)
 
